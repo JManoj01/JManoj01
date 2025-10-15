@@ -72,61 +72,15 @@ I'm an undergraduate student at the **University of Massachusetts-Amherst** purs
 
 <br>
 
-## 🎯 Focus Areas
-
-<div align="center">
-  
-🌐 Full-Stack Development 🔧 System Integration & Optimization
-⚡ Scalable Distributed Systems 🚀 Real-Time Systems
-
-
-</div>
-
-<br>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="170" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=38C2FF&fire=FF6B6B&currStreakLabel=38C2FF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
-<br>
-
 ## 📫 Connect With Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justinmmanoj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@umass.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinmmanoj@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jmanoj.vercel.app)
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38C2FF&style=for-the-badge&label=Profile+Views)
-  
-  ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
