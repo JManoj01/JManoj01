@@ -1,10 +1,9 @@
 ## 🚀 About Me
 
-Hi, I'm Justin 👋  
+### Hi, I'm Justin 👋
+### I'm a Computer Science & Mathematics student at UMass Amherst, graduating in May 2027. I learn by building and enjoy using technology to solve real-world problems.
+### 📫 Reach me at: justinmmanoj@gmail.com
 
-I'm a **Computer Science & Mathematics student** at **UMass Amherst**, graduating in **May 2027**. I learn by building and enjoy using technology to solve real-world problems.
-
-📫 Reach me at: [justinmmanoj@gmail.com](mailto:justinmmanoj@gmail.com)
 
 
 ---
