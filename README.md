@@ -32,4 +32,4 @@ PyTorch, Scikit-learn, RESTful APIs, GraphQL, Microservices, Agile Methodologies
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/justinmmanoj) | [Email](mailto:justinmmanoj@gmail.com) | [Portfolio](https://www.jmanoj.app)
+## [LinkedIn](https://www.linkedin.com/in/justinmmanoj) | [Email](mailto:justinmmanoj@gmail.com) | [Portfolio](https://www.jmanoj.app)
