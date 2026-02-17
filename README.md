@@ -11,22 +11,22 @@
 ## 🧰 Tech Stack
 
 ## 🔤 Languages
-### Python, Java, C, C++, JavaScript, TypeScript, Go, SQL
+Python, Java, C, C++, JavaScript, TypeScript, Go, SQL
 
 ---
 
 ## 🌐 Web & App Development
-### React, React Native, Node.js, Flask, Django, Express.js
+React, React Native, Node.js, Flask, Django, Express.js
 
 ---
 
 ## 🧠 Backend, Cloud & Systems
-### AWS (Lambda, EC2, S3), Google Cloud Platform, Docker, Kafka, Redis, Kubernetes, CI/CD, Git
+AWS (Lambda, EC2, S3), Google Cloud Platform, Docker, Kafka, Redis, Kubernetes, CI/CD, Git
 
 ---
 
 ## 📊 Data, Databases & ML
-###  PyTorch, Scikit-learn, RESTful APIs, GraphQL, Microservices, Agile Methodologies, Test-Driven Development
+PyTorch, Scikit-learn, TensorFlow, Pandas, RESTful APIs, GraphQL, Microservices, Agile Methodologies
 
 ---
 
