@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack
 
 ## 🔤 Languages
-Python, Java, C, C++, JavaScript, TypeScript, Go, SQL
+Python, JavaScript, TypeScript, Java, C, C++, Go, SQL
 
 ---
 
