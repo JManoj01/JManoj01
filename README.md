@@ -1,35 +1,9 @@
-## 🚀 About Me
+### Hey 👋
 
-### Hi, I'm Justin 👋
-### I'm a Computer Science & Mathematics student at UMass Amherst, graduating in May 2027. I learn by building and enjoy using technology to solve real-world problems.
-### 📫 Reach me at: justinmmanoj@gmail.com
+I'm Justin, a Computer Science & Mathematics student at UMass Amherst (May 2027).
 
-
-
----
-
-## 🧰 Tech Stack
-
-## 🔤 Languages
-Python, JavaScript, TypeScript, Java, C, C++, Go, SQL
-
----
-
-## 🌐 Web & App Development
-React, React Native, Node.js, Flask, Django, Express.js
-
----
-
-## 🧠 Backend, Cloud & Systems
-AWS (Lambda, EC2, S3), Google Cloud Platform, Docker, Kafka, Redis, Kubernetes, CI/CD, Git
-
----
-
-## 📊 Data, Databases & ML
-PyTorch, Scikit-learn, TensorFlow, Pandas, RESTful APIs, GraphQL, Microservices, Agile Methodologies
-
----
-
-## 📫 Connect With Me
-
-## [LinkedIn](https://www.linkedin.com/in/justinmmanoj) | [Email](mailto:justinmmanoj@gmail.com) | [Portfolio](https://www.jmanoj.app)
+- Building software to solve real problems
+- Interested in systems, backend, and applied ai
+- Reach me: justinmmanoj@gmail.com
+- Linkedin: linkedin.com/in/justinmmanoj
+- Portfolio: jmanoj.com
